@@ -9,7 +9,7 @@ from io import StringIO
 FUSED_API_URL = "https://www.fused.io/server/v1/realtime-shared/ee28781f18bbb5369441e13c90a3e2ca7af582f266fdfd9edc4c56ca05321830/run/file"
 
 # Path to your CSV file
-CSV_PATH = "olympicsst/2024_paris_iso.csv"
+CSV_PATH = "2024_paris_iso.csv"
 
 
 def load_stadium_data():
